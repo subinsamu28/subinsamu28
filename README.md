@@ -54,7 +54,7 @@
 
 ## 🧠 Who Am I?
 
-I am a master's student in **Applied Computer Science** with a background in **Cyber Forensics**, driven by the curiosity to understand how things work — and how they break.
+I am a master's student in **Applied Computer Science** with a background in **Cyber Forensics**, driven by the curiosity to understand how things work  and how they break.
 
 From real-world law enforcement systems to browser automation bots, I build tools that solve problems, not just pass benchmarks.
 
