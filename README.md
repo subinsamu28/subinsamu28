@@ -1,212 +1,323 @@
-# SUBIN-SAMU
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Subin%20Samu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Applied%20Computer%20Science%20•%20Cyber%20Forensics%20•%20Systems%20Programming&descAlignY=52&descSize=18"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Subin%20Samu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Applied%20Computer%20Science%20•%20Cyber%20Forensics%20•%20Systems%20Programming&descAlignY=52&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Subin%20Samu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Applied%20Computer%20Science%20•%20Cyber%20Forensics%20•%20Systems%20Programming&descAlignY=52&descSize=18"/>
+</picture>
 
+<p align="center">
+  <a href="https://github.com/subinsamu">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Builder+%E2%80%A2+Breaker+%E2%80%A2+Thinker;Sharpening+Code.+Securing+Systems.;Building+What+Others+Won't.;Powered+by+Rust+%F0%9F%A6%80" alt="Typing SVG" />
+  </a>
+</p>
 
-<h1 align="center">SUBIN SAMU</h1>
+<p align="center">
+  <a href="https://linkedin.com/in/subin-samu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:subinsamu28@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/subinsamu?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://subinsamu.com"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subinsamu&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/subinsamu?style=for-the-badge&color=6C63FF&label=FOLLOWERS"/>
+</p>
+
+---
+
+## 🧠 About Me
+
+```rust
+struct Developer {
+    name: &'static str,
+    role: &'static str,
+    location: &'static str,
+    education: Vec<&'static str>,
+    interests: Vec<&'static str>,
+    currently_learning: Vec<&'static str>,
+}
+
+impl Developer {
+    fn new() -> Self {
+        Developer {
+            name: "Subin Samu",
+            role: "M.Sc. Applied Computer Science Student",
+            location: "Bavaria, Germany 🇩🇪",
+            education: vec![
+                "M.Sc. Applied Computer Science @ TH Deggendorf (2024-Present)",
+                "B.Sc. Cyber Forensics (2020-2023)"
+            ],
+            interests: vec![
+                "Systems Programming", "Cybersecurity", "Automation",
+                "Reverse Engineering", "Network Protocols", "AI/ML"
+            ],
+            currently_learning: vec![
+                "Rust 🦀", "Embedded Systems", "Advanced ML", "Kubernetes"
+            ],
+        }
+    }
+    
+    fn say_hi(&self) {
+        println!("Thanks for dropping by! Let's build something amazing together.");
+    }
+}
+```
+
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subinsamu&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF"/>
+
+### 💡 Quick Facts
+
+- 🔭 Currently working on **Automation & Security Tools**
+- 🎓 Master's student at **TH Deggendorf, Germany**
+- 🛡️ Background in **Cyber Forensics** with law enforcement experience
+- 🦀 Obsessed with **Rust** and systems-level programming
+- 🤖 Building tools that solve real problems, not benchmarks
+- 🌍 From India 🇮🇳, now in Germany 🇩🇪
+- ⚡ Philosophy: *"Where abstraction ends, real control begins"*
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<details open>
+<summary><b>🧠 Core Languages</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,python,cpp,c,java,javascript,typescript,bash&theme=dark&perline=8" />
+</p>
+</details>
+
+<details open>
+<summary><b>🌐 Web & Backend</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,html,css,react,angular&theme=dark&perline=8" />
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,aws,azure,docker,kubernetes&theme=dark&perline=8" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Platforms</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,vim,neovim,pytorch&theme=dark&perline=8" />
+</p>
+</details>
+
+<details>
+<summary><b>🔐 Security & Forensics</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scapy-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autopsy-003366?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Volatility-8B0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
+</p>
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=subinsamu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&ring_color=6C63FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subinsamu&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=subinsamu&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/subinsamu/criminal-investigation-tracker">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subinsamu&repo=criminal-investigation-tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/subinsamu/goethe-bot">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subinsamu&repo=goethe-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/subinsamu/local-filedrop">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subinsamu&repo=local-filedrop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/subinsamu/cyber-forensics-toolkit">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subinsamu&repo=cyber-forensics-toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
+  </a>
+</p>
+
+---
+
+## 💼 Project Highlights
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚨 Criminal Investigation Tracker
+> Real-time forensic tool used by **Kerala Police**
+
+- 🔍 Automates suspect prediction & charge sheet generation
+- 📊 Processes raw crime data into actionable insights
+- 🔗 Direct integration with law enforcement systems
+
+**Stack:** `Python` `SQLite` `Flask` `Pandas`
+
+</td>
+<td width="50%">
+
+### 🤖 GoetheBot
+> Full-stack exam slot automation system
+
+- 🎯 CAPTCHA bypass & live seat sniping
+- 🔄 Proxy rotation & concurrency control
+- 📱 Real-time dashboard via Socket.IO
+
+**Stack:** `Node.js` `Playwright` `Electron` `Twilio`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📡 Local FileDrop
+> AirDrop-style P2P file sharing over LAN
+
+- 🦀 Built from scratch in **Rust**
+- ⚡ Chunked transfer & auto-directory creation
+- 🖥️ Native GUI with egui
+
+**Stack:** `Rust` `Tokio` `egui` `TCP`
+
+</td>
+<td width="50%">
+
+### 🔐 MQTT Secure Broker
+> TLS-enabled pub/sub with HMAC verification
+
+- 🛡️ Secure sensor-to-dashboard messaging
+- 📊 Client dashboard for monitoring
+- 🐳 Dockerized Mosquitto broker
+
+**Stack:** `Mosquitto` `Python` `TLS` `Docker`
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/subinsamu?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Projects-Portfolio-0f172a?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:subinsamu28@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/View%20All%20Projects%20→-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+---
 
+## 🎓 Certifications & Achievements
 
 <p align="center">
-  <em><strong>Applied Computer Science · Cyber Forensics · Systems Programming</strong></em><br>
-  <em>Builder &nbsp;·&nbsp; Breaker &nbsp;·&nbsp; Thinker</em><br><br>
-
-  <img src="https://img.shields.io/badge/Rust-Expert-informational?style=flat-square&logo=rust&logoColor=white&color=orange"/>
-  <img src="https://img.shields.io/badge/Python-Automation-blue?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-Low_Level-blueviolet?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-Systems-darkblue?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-OOP-red?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-Frontend-yellow?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML%2FCSS-Web-orange?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-Scripting-grey?style=flat-square&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Data-blue?style=flat-square&logo=sqlite&logoColor=white"/>
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-APIs-black?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.IO-Realtime-grey?style=flat-square&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-Automation-4B0082?style=flat-square&logo=microsoft-edge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Electron-Desktop-191970?style=flat-square&logo=electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tauri-Rust_UI-orange?style=flat-square&logo=tauri&logoColor=white"/>
-  <img src="https://img.shields.io/badge/egui-GUI-lightblue?style=flat-square&logo=rust&logoColor=white"/>
-  <br><br>
-
-  <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-4169E1?style=flat-square&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-Network_Scanner-003300?style=flat-square&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scapy-Packet%20Crafting-800080?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning_for_Engineers-FAU_Erlangen-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IBM-Design_Thinking_Practitioner-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Machine_Learning-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-Digital_Marketing-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-Essential_Training-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
-
-<p align="center">
-  <em>Sharpening code. Securing systems. Building what others won’t.</em>
-</p>
-
-
----
-
-## 🧠 Who Am I?
-
-I am a master's student in **Applied Computer Science** with a background in **Cyber Forensics**, driven by the curiosity to understand how things work  and how they break.
-
-From real-world law enforcement systems to browser automation bots, I build tools that solve problems, not just pass benchmarks.
-
-I believe in clean code, system-level thinking, and tech that respects privacy, performance, and purpose.
-
----
-
-## ⚙️ What I Do
-
-- 🛡️ Develop automation and cybersecurity tools
-- 🧪 Reverse engineer, analyze, and break software systems
-- 📦 Build system utilities in **Rust**, **Python**, and **C++**
-- 🎓 Research in Embedded Systems, Security, and Network Protocols
-- 🌍 Automate the boring — and the impossible
-
----
-
----
-
-## 💻 Languages & Technologies
-
-### 🧠 Core Languages  
-`Rust` · `Python` · `C++` · `C` · `Java` · `JavaScript` · `Bash`
-
----
-
-### 🌐 Web & Frontend  
-`HTML` · `CSS` · `Node.js` · `REST APIs` · `WebSockets`
-
----
-
-### 🧰 Frameworks & UI  
-`Playwright` · `Electron` · `Tauri` · `egui` · `Flask`
-
----
-
-### 🧱 Backend & Systems  
-`Express.js` · `Socket.IO` · `SQLite` · `PostgreSQL` · `systemd`
-
----
-
-### 🔐 Cybersecurity & Forensics  
-`Wireshark` · `nmap` · `Scapy` · `Metasploit` · `File carving` · `Hashing` · `Timeline analysis`
-
----
-
-### 🧠 AI / ML (Basics)  
-`PyTorch` · `HuggingFace Transformers` · `OpenAI APIs`
-
----
-
-### 🧰 Tools I Work With  
-`Docker` · `GDB` · `tmux` · `Git` · `VS Code` · `Linux` (daily driver)
-
----
-
-
----
-
-## 🔥 Projects That Define Me
-
-### 🚨 Criminal Investigation Tracker  
-A real-time forensic investigation tool used by the Kerala Police  
-→ Automates suspect prediction and charge sheet generation from raw crime data  
-→ Built to integrate directly with law enforcement systems  
-**Stack:** Python · SQLite · Flask · Pandas · Custom PDF Generator
-
----
-
-### 🤖 GoetheBot  
-A full-stack exam slot automation system for the Goethe Institute  
-→ Handles login, CAPTCHA bypassing, module selection, live seat sniping, PDF invoicing  
-→ Includes concurrency control, proxy rotation, and real-time dashboard via Socket.IO  
-**Stack:** Node.js · Playwright · Electron · Socket.IO · Twilio · 2Captcha API
-
----
-
-### 🕵️‍♂️ Cyber Forensics Toolkit  
-Offline GUI application for digital forensics and evidence handling  
-→ Performs file carving, metadata extraction, hash verification, deleted file recovery, and timeline reconstruction  
-→ Designed for portability in air-gapped forensic environments  
-**Stack:** Python · PyQt · hashlib · OS modules · SQLite
-
----
-
-### 📡 Local FileDrop  
-An AirDrop-style peer-to-peer file sharing system over LAN  
-→ Built from scratch in Rust with a native GUI for sending/receiving files over TCP  
-→ Features chunked transfer, auto-directory creation, and planned mDNS discovery  
-**Stack:** Rust · Tokio · egui · eframe · rfd · serde
-
----
-
-### 📂 File Metadata Extractor  
-CLI-based digital evidence parser for bulk file metadata scanning  
-→ Scans large file directories and extracts timestamp, hash, size, permissions, and inode info  
-→ Ideal for forensic disk imaging and artifact reporting  
-**Stack:** Python · os · hashlib · argparse
-
----
-
-### 🌐 VFS Visa Slot Bot  
-Automation engine for booking Schengen visa slots through VFS Global  
-→ Handles OTP login, form filling, center selection, and slot sniping via browser control  
-→ Logs session activity and slot timings in real-time  
-**Stack:** Node.js · Puppeteer · Express · Email Parser · Async Workers
-
----
-
-### 📊 SomeIPy – Automotive Ethernet Demo  
-Simulated client-server communication using SOME/IP for automotive systems  
-→ Streams mock sensor data over virtual interfaces, logs telemetry with CPU/GPU status  
-→ Includes Docker container, systemd service, and CSV export  
-**Stack:** Python · someipy · psutil · Flask · Docker
-
----
-
-### 🔐 MQTT Secure Broker  
-TLS-enabled MQTT pub/sub system with HMAC integrity verification  
-→ Built for embedded communication with secure sensor-to-dashboard messaging  
-→ Includes client dashboard and Dockerized Mosquitto broker  
-**Stack:** Mosquitto · Python · HMAC · TLS · Dash · OpenSSL
-
----
 
 ---
 
 ## 🧩 What Makes Me Different
 
-- 🔬 I go deep  into packets, protocols, syscalls, and internals   
-- 🧨 I break things on purpose to understand how they truly work  
-- 🧠 I don’t just write code  I reverse-engineer, optimize, automate, and test limits   
-- 🛠️ I build tools from scratch when existing ones fall short  
-- ⚙️ I care about performance, privacy, and real-world usefulness  not hype   
-- 🧭 I work where abstraction ends and real control begins
+<p align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subinsamu&theme=tokyonight"/>
+</p>
+
+```
+🔬 I go deep → into packets, protocols, syscalls, and internals
+🧨 I break things on purpose → to understand how they truly work  
+🧠 I don't just write code → I reverse-engineer, optimize, automate, and test limits
+🛠️ I build tools from scratch → when existing ones fall short
+⚙️ I care about performance, privacy, and real-world usefulness → not hype
+🧭 I work where abstraction ends → and real control begins
+```
 
 ---
 
+## 📈 Weekly Development Breakdown
 
-## 🌐 Connect
-
-- 🌍 [GitHub](https://github.com/subinsamu)
-- 🔗 [LinkedIn](https://linkedin.com/in/subin-samu)
-- 🧭 [Personal Projects](https://github.com/subinsamu?tab=repositories)
-
----
-
-## 🧪 Philosophy
-
-> “Everything in this world can be taken away from you, except the knowledge you have gained. One thing that won’t leave you is knowledge. So, learn, learn, learn anything. Once you start gaining the power of knowledge, you won’t step back.”  
-> — Subin Samu
+<!--START_SECTION:waka-->
+```text
+Rust         █████████████░░░░░░░░░░░░   52.4%
+Python       ██████░░░░░░░░░░░░░░░░░░░   24.3%
+JavaScript   ████░░░░░░░░░░░░░░░░░░░░░   15.8%
+C++          ██░░░░░░░░░░░░░░░░░░░░░░░    5.2%
+Other        █░░░░░░░░░░░░░░░░░░░░░░░░    2.3%
+```
+<!--END_SECTION:waka-->
 
 ---
 
-> 🧠 Built on obsession. Sharpened by failure. Powered by Rust.
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subinsamu/subinsamu/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subinsamu/subinsamu/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/subinsamu/subinsamu/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+---
+
+## 💬 Philosophy
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Everything%20in%20this%20world%20can%20be%20taken%20away%20from%20you%2C%20except%20the%20knowledge%20you%20have%20gained.%20Learn%2C%20learn%2C%20learn%20anything.&author=Subin%20Samu"/>
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/subin-samu">
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:subinsamu28@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/subinsamu">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>💡 Open to collaboration on interesting projects!</i>
+  <br><br>
+  <img src="https://img.shields.io/badge/Open_to-Working_Student_Opportunities-success?style=for-the-badge"/>
+</p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</picture>
+
+<p align="center">
+  <b>🧠 Built on obsession. Sharpened by failure. Powered by Rust. 🦀</b>
+</p>
