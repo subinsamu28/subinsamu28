@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/subinsamu">
+  <a href="https://github.com/subinsamu28">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Builder+%E2%80%A2+Breaker+%E2%80%A2+Thinker;Sharpening+Code.+Securing+Systems.;Building+What+Others+Won't.;Powered+by+Rust+%F0%9F%A6%80" alt="Typing SVG" />
   </a>
 </p>
@@ -13,13 +13,13 @@
 <p align="center">
   <a href="https://linkedin.com/in/subin-samu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:subinsamu28@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/subinsamu?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/subinsamu28?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://subinsamu.com"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subinsamu&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/subinsamu?style=for-the-badge&color=6C63FF&label=FOLLOWERS"/>
+  <img src="https://komarev.com/ghpvc/?username=subinsamu28&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/subinsamu28?style=for-the-badge&color=6C63FF&label=FOLLOWERS"/>
 </p>
 
 ---
@@ -62,8 +62,6 @@ impl Developer {
 }
 ```
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subinsamu&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF"/>
-
 ### 💡 Quick Facts
 
 - 🔭 Currently working on **Automation & Security Tools**
@@ -73,8 +71,6 @@ impl Developer {
 - 🤖 Building tools that solve real problems, not benchmarks
 - 🌍 From India 🇮🇳, now in Germany 🇩🇪
 - ⚡ Philosophy: *"Where abstraction ends, real control begins"*
-
-<br clear="right"/>
 
 ---
 
@@ -122,7 +118,6 @@ impl Developer {
   <img src="https://img.shields.io/badge/Scapy-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Autopsy-003366?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Volatility-8B0000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
 </p>
 </details>
@@ -132,34 +127,12 @@ impl Developer {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=subinsamu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&ring_color=6C63FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subinsamu&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=subinsamu28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&ring_color=6C63FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subinsamu28&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=subinsamu&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/subinsamu/criminal-investigation-tracker">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subinsamu&repo=criminal-investigation-tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/subinsamu/goethe-bot">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subinsamu&repo=goethe-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/subinsamu/local-filedrop">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subinsamu&repo=local-filedrop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/subinsamu/cyber-forensics-toolkit">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subinsamu&repo=cyber-forensics-toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-  </a>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subinsamu28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF"/>
 </p>
 
 ---
@@ -222,7 +195,7 @@ impl Developer {
 </table>
 
 <p align="center">
-  <a href="https://github.com/subinsamu?tab=repositories">
+  <a href="https://github.com/subinsamu28?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Projects%20→-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -232,9 +205,11 @@ impl Developer {
 ## 🎓 Certifications & Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning_for_Engineers-FAU_Erlangen-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IBM-Design_Thinking_Practitioner-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FAU_Erlangen-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IBM-Design_Thinking-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-Machine_Learning-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Google-Digital_Marketing-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-Essential_Training-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
@@ -242,10 +217,6 @@ impl Developer {
 ---
 
 ## 🧩 What Makes Me Different
-
-<p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subinsamu&theme=tokyonight"/>
-</p>
 
 ```
 🔬 I go deep → into packets, protocols, syscalls, and internals
@@ -260,7 +231,6 @@ impl Developer {
 
 ## 📈 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
 ```text
 Rust         █████████████░░░░░░░░░░░░   52.4%
 Python       ██████░░░░░░░░░░░░░░░░░░░   24.3%
@@ -268,17 +238,6 @@ JavaScript   ████░░░░░░░░░░░░░░░░░░�
 C++          ██░░░░░░░░░░░░░░░░░░░░░░░    5.2%
 Other        █░░░░░░░░░░░░░░░░░░░░░░░░    2.3%
 ```
-<!--END_SECTION:waka-->
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subinsamu/subinsamu/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subinsamu/subinsamu/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/subinsamu/subinsamu/output/github-contribution-grid-snake.svg"/>
-</picture>
 
 ---
 
@@ -299,7 +258,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
   <a href="mailto:subinsamu28@gmail.com">
     <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/subinsamu">
+  <a href="https://github.com/subinsamu28">
     <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
