@@ -242,15 +242,6 @@ JavaScript   ████░░░░░░░░░░░░░░░░░░�
 C++          ██░░░░░░░░░░░░░░░░░░░░░░░    5.2%
 Other        █░░░░░░░░░░░░░░░░░░░░░░░░    2.3%
 ```
-
----
-
-## 💬 Philosophy
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Everything%20in%20this%20world%20can%20be%20taken%20away%20from%20you%2C%20except%20the%20knowledge%20you%20have%20gained.%20Learn%2C%20learn%2C%20learn%20anything.&author=Subin%20Samu"/>
-</p>
-
 ---
 
 ## 🤝 Let's Connect!
